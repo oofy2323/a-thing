@@ -1,7 +1,7 @@
-echo "# a-thing" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/oofy2323/a-thing.git
-git push -u origin main
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>test</title>
+<button class="btn">Click Me</button>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/512px-Solid_red.svg.png?20150316143248>
