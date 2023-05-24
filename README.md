@@ -1,2 +1,2 @@
 chess?
-# <link src="chess.com">
+# <a>src="chess.com"</a>
