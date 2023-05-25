@@ -1,3 +1,3 @@
 
-<a href="idk"><button class="btn">Chess</button></a>
+<a href="chess.com"><button class="btn">test</button></a>
 
