@@ -1,4 +1,2 @@
 <html>
-  <head>
-    <title>test</title>
-   
+  <head>test</head>
