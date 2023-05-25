@@ -1,3 +1,3 @@
 <html>
   <head>test</head>
-  <button 
+  <button cls="btn">test</button>
