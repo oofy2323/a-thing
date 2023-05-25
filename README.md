@@ -1,2 +1,2 @@
 
-<button class="btn">Chess?</button><link src="chess.com">chess</link>
+<button class="btn"><link src="chess.com">Chess?</link></button>
